@@ -1,0 +1,22 @@
+vscode extension installed
+
+* Atom one dark theme 
+* Auto rename tag
+* prettier code formatter 
+
+
+Django Project
+
+commands to run before starting the project
+
+1) pip install virtualenv   --->  command to instal virtual environment
+2) virtualenv env  	--->   env is a virtual environment name
+3) env\scripts\activate   ---> activate the virtual environment
+4) env\scripts\deactivate  --->  deactivate the virtual environment
+5) pip install django   ---> installation of django to the virtual environment
+6) django-admin ---> will show all the commands avaliable
+7) django-admin startproject Study_With_Me  --->   startproject is a command and Study_With_Me is a project name
+8) cd Study_With_me   --->   get in side the project
+9) python manage.py runserver   --->   run the project you will get the port number copy the port number and try to paste the link in the 
+				       chrome you will get (The install worked successfully! Congratulations!)
+10) python manage.py startapp  --->   creating application in the project 
